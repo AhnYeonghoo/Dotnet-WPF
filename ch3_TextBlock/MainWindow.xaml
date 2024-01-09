@@ -1,0 +1,58 @@
+﻿<Window x:Class="ch3_TextBlock.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ch3_TextBlock"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="300">
+    <Grid>
+        <StackPanel>
+            <TextBlock>안녕하세요.</TextBlock>
+            <TextBlock Text="안녕하세요"></TextBlock>
+            <TextBlock><Bold>안녕</Bold><Italic>하세요.</Italic>
+            <LineBreak /> WPF입니다. 
+                <Hyperlink 
+                    RequestNavigate="Hyperlink_RequestNavigate"
+                    NavigateUri="https://google.com"
+                    Cursor="Hand"> 구글 바로가기</Hyperlink>
+                </TextBlock>
+            <TextBlock Background="Salmon"
+                       Foreground="White"
+                       FontSize="20"
+                       >
+               O say <Span Foreground="Black">can</Span> you see, by the dawn's early light,
+            </TextBlock>
+            <TextBlock 
+                       Foreground="Black"
+                       TextTrimming="CharacterEllipsis"
+                FontSize="20"
+                       >
+               O say <Span Foreground="Black">can</Span> you see, by the dawn's early light,
+            </TextBlock>
+            <TextBlock 
+                       Foreground="Black"
+                       TextTrimming="None"
+  
+                FontSize="20"
+                       >
+               O say <Span Foreground="Black">can</Span> you see, by the dawn's early light,
+            </TextBlock>
+            <TextBlock 
+                       Foreground="Black"
+                       TextTrimming="WordEllipsis"
+                FontSize="20"
+                       >
+               O say <Span Foreground="Black">can</Span> you see, by the dawn's early light,
+            </TextBlock>
+            <TextBlock 
+                       Foreground="Black"
+                       TextWrapping="WrapWithOverflow"
+                FontSize="20"
+                       >
+               O say <Span Foreground="Black">can</Span> you see, <Underline>by the dawn's early light,</Underline>
+            </TextBlock>
+        </StackPanel>
+
+    </Grid>
+</Window>
