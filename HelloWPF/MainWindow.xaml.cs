@@ -23,13 +23,21 @@ namespace HelloWPF
         public MainWindow()
         {
             InitializeComponent();
-            btn.Content = "버튼입니다.";
-            lbl.Content = "레이블입니다";
+          
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        //private void Button_Click(object sender, RoutedEventArgs e)
+        //{
+        //    MessageBox.Show("Hello, Windows Presentation foundation!");
+        //}
+
+        private void ButtonAddName_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hello, Windows Presentation foundation!");
+            if (!string.IsNullOrWhiteSpace(txtName.Text) && !(lstNames.Items.Contains(txtName.Text)))
+            {
+                lstNames.Items.Add(txtName.Text);
+                txtName.Clear();
+            }
         }
     }
 }
