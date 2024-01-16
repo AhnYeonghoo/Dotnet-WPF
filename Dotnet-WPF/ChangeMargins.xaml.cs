@@ -13,12 +13,18 @@ using System.Windows.Shapes;
 namespace Dotnet_WPF
 {
     /// <summary>
-    /// Interaction logic for LayoutWithTheDockPanel.xaml
+    /// Interaction logic for ChangeMargins.xaml
     /// </summary>
-    public partial class LayoutWithTheDockPanel : Window
+    public partial class ChangeMargins : Window
     {
-        public LayoutWithTheDockPanel()
-            =>  InitializeComponent();
+        public ChangeMargins()
+        {
+            InitializeComponent();
+        }
+
+        private void OkButton_Click(object sender, RoutedEventArgs e) => DialogResult = true;
+        private void CancelButton_Click(object sender, RoutedEventArgs e) => DialogResult = false;
+
         
     }
 }

@@ -30,3 +30,5 @@ C:\Users\dksdu\Desktop\HelloWPF\Dotnet-WPF\obj\Debug\netcoreapp3.1\ClosingWindow
 C:\Users\dksdu\Desktop\HelloWPF\Dotnet-WPF\obj\Debug\netcoreapp3.1\CustomMediaPlayerWindow.baml
 C:\Users\dksdu\Desktop\HelloWPF\Dotnet-WPF\obj\Debug\netcoreapp3.1\DataWindow.g.cs
 C:\Users\dksdu\Desktop\HelloWPF\Dotnet-WPF\obj\Debug\netcoreapp3.1\DataWindow.baml
+C:\Users\dksdu\Desktop\HelloWPF\Dotnet-WPF\obj\Debug\netcoreapp3.1\ClippedWindow.g.cs
+C:\Users\dksdu\Desktop\HelloWPF\Dotnet-WPF\obj\Debug\netcoreapp3.1\ClippedWindow.baml

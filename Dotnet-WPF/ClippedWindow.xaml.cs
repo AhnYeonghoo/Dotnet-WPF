@@ -13,12 +13,13 @@ using System.Windows.Shapes;
 namespace Dotnet_WPF
 {
     /// <summary>
-    /// Interaction logic for LayoutWithTheDockPanel.xaml
+    /// Interaction logic for ClippedWindow.xaml
     /// </summary>
-    public partial class LayoutWithTheDockPanel : Window
+    public partial class ClippedWindow : Window
     {
-        public LayoutWithTheDockPanel()
-            =>  InitializeComponent();
-        
+        public ClippedWindow()
+        {
+            InitializeComponent();
+        }
     }
 }

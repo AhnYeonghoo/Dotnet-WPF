@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\dksdu\Desktop\HelloWPF\Dotnet-WPF\App.xaml
-752062865
+9-1771688165
 
-9-826478492
+111195905520
 192-1533232326
-ClosingWindow.xaml;CustomMediaPlayerWindow.xaml;DataWindow.xaml;LayoutWithTheDockPanel.xaml;MainWindow.xaml;Names.xaml;Styles.xaml;
+ChangeMargins.xaml;ClippedWindow.xaml;ClosingWindow.xaml;CustomMediaPlayerWindow.xaml;DataWindow.xaml;LayoutWithTheDockPanel.xaml;MainWindow.xaml;Names.xaml;Styles.xaml;
 
-False
+True
 
