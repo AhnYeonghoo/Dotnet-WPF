@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\App.xaml
-31631579445
+5165936279
 
-7644234210
+9-500667807
 192-1533232326
-DockPanel.xaml;MainWindow.xaml;Styles.xaml;
+DockPanel.xaml;MainWindow.xaml;Resource.xaml;Styles.xaml;WindowsOverview.xaml;
 
 False
 

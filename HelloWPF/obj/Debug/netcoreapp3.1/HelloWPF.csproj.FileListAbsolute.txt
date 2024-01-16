@@ -20,3 +20,9 @@ C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\obj\Debug\netcoreapp3.1\HelloWPF.pdb
 C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\obj\Debug\netcoreapp3.1\HelloWPF.genruntimeconfig.cache
 C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\obj\Debug\netcoreapp3.1\DockPanel.g.cs
 C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\obj\Debug\netcoreapp3.1\DockPanel.baml
+C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\obj\Debug\netcoreapp3.1\Resource.g.cs
+C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\obj\Debug\netcoreapp3.1\Styles.g.cs
+C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\obj\Debug\netcoreapp3.1\WindowsOverview.g.cs
+C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\obj\Debug\netcoreapp3.1\Resource.baml
+C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\obj\Debug\netcoreapp3.1\Styles.baml
+C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\obj\Debug\netcoreapp3.1\WindowsOverview.baml

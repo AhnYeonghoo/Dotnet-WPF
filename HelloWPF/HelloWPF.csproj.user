@@ -10,12 +10,24 @@
     <Compile Update="DockPanel.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Styles.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowsOverview.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="DockPanel.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowsOverview.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

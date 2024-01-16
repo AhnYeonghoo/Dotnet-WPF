@@ -1,0 +1,19 @@
+﻿<Window x:Class="Dotnet_WPF.LayoutWithTheDockPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dotnet_WPF"
+        mc:Ignorable="d"
+        Title="LayoutWithTheDockPanel" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+            <TextBox DockPanel.Dock="Top">Dock= "Top"</TextBox>
+            <TextBox DockPanel.Dock="Bottom">Dock= "Bottom"</TextBox>
+            <TextBox DockPanel.Dock="Left">Dock= "Left"</TextBox>
+            <TextBox Background="White">This TextBox "fills" the remaining space.</TextBox>
+            <TextBox Name="persoNameTextBox" Text="{Binding Path=Name}" />
+        </DockPanel>
+        
+    </Grid>
+</Window>

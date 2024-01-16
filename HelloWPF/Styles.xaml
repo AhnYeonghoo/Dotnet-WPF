@@ -16,7 +16,7 @@
         </Style>
     </Window.Resources>
 
-    <StackPanel>
+    <StackPanel Height="123" Width="332">
         <Button>Click Me!</Button>
         <Label>Don`t Click Me!</Label>
         <Button>Click Me!</Button>
