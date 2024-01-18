@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ch2_Label", "ch2_Label\ch2_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ch3_TextBlock", "ch3_TextBlock\ch3_TextBlock.csproj", "{8BFF8B3C-A37F-46C6-B002-03325E6079CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet-WPF", "Dotnet-WPF\Dotnet-WPF.csproj", "{DA43D979-3ACE-43F3-ACC9-B204F048EFCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet-WPF", "Dotnet-WPF\Dotnet-WPF.csproj", "{DA43D979-3ACE-43F3-ACC9-B204F048EFCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCV", "OpenCV\OpenCV.csproj", "{EBB510AB-4F5C-44B3-AB60-B47598CEE683}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DA43D979-3ACE-43F3-ACC9-B204F048EFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA43D979-3ACE-43F3-ACC9-B204F048EFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA43D979-3ACE-43F3-ACC9-B204F048EFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB510AB-4F5C-44B3-AB60-B47598CEE683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB510AB-4F5C-44B3-AB60-B47598CEE683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB510AB-4F5C-44B3-AB60-B47598CEE683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB510AB-4F5C-44B3-AB60-B47598CEE683}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

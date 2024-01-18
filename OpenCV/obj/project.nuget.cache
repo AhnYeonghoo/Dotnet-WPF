@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "9MVkK9H7HJSQPYW3xOMHDGYkVXYAnmbRvX6iWbDN65FrBNkqVX0jVylhWv6qxGuSK9fWX1MbcQ3PQqolgsXSEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dksdu\\Desktop\\HelloWPF\\OpenCV\\OpenCV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dksdu\\.nuget\\packages\\opencvsharp4\\4.9.0.20240103\\opencvsharp4.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\dksdu\\.nuget\\packages\\opencvsharp4.wpfextensions\\4.9.0.20240103\\opencvsharp4.wpfextensions.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\dksdu\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\dksdu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenCvSharp4.WpfExtensions 4.9.0.20240103' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "OpenCvSharp4.WpfExtensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

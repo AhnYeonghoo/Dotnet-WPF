@@ -25,6 +25,9 @@
     <Compile Update="LayoutWithTheDockPanel.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="MyPictures.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Names.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -52,6 +55,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MyPictures.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Names.xaml">
