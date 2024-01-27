@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = ch3_TextBlock
 build_property.ProjectDir = C:\Users\dksdu\Desktop\HelloWPF\ch3_TextBlock\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
