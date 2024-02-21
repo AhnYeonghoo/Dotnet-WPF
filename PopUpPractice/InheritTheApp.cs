@@ -11,7 +11,7 @@ namespace PopUpPractice
     class InheritTheApp : Application
     {
         [STAThread]
-        public static void Main()
+        public static void MainInheritTheApp()
         {
             InheritTheApp app = new InheritTheApp();
             app.Run();
