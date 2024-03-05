@@ -29,7 +29,7 @@ namespace PopUpPractice
         {
             base.OnKeyDown(args);
             if (args.Key == Key.Up)
-            {
+            {   
                 Left -= 0.05 * Width;
                 Top -= 0.05 * Height;
                 Width *= 1.1;
