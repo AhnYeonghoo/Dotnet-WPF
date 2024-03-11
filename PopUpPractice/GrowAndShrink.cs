@@ -23,6 +23,7 @@ namespace PopUpPractice
             WindowStartupLocation = WindowStartupLocation.CenterScreen;
             Width = 192;
             Height = 192;
+
         }
 
         protected override void OnKeyDown(KeyEventArgs args)
