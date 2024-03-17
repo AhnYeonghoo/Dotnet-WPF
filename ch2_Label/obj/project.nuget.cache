@@ -1,12 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "K69jdbfyUUViQ8TQw2VTR38iGzhDr3pspvU/Gv7mozrXqqfKs7A0SRgVbQlTTMo3bSAveFgn2ePpMSwUB8aObA==",
+  "dgSpecHash": "PzA5Vn4+TJmm7wvDeGugL/RZ4ggEJ1K/JGP3Qy9fHjrfFm+razmYXgRQIRW2e01M2F0+K1ha6znWre1sOdxx7g==",
   "success": true,
   "projectFilePath": "C:\\Users\\dksdu\\Desktop\\HelloWPF\\ch2_Label\\ch2_Label.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []

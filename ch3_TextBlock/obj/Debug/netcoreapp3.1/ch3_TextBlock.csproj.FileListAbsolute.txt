@@ -18,3 +18,4 @@ C:\Users\dksdu\Desktop\HelloWPF\ch3_TextBlock\obj\Debug\netcoreapp3.1\ch3_TextBl
 C:\Users\dksdu\Desktop\HelloWPF\ch3_TextBlock\obj\Debug\netcoreapp3.1\ch3_TextBlock.dll
 C:\Users\dksdu\Desktop\HelloWPF\ch3_TextBlock\obj\Debug\netcoreapp3.1\ch3_TextBlock.pdb
 C:\Users\dksdu\Desktop\HelloWPF\ch3_TextBlock\obj\Debug\netcoreapp3.1\ch3_TextBlock.genruntimeconfig.cache
+C:\Users\dksdu\Desktop\HelloWPF\ch3_TextBlock\obj\Debug\netcoreapp3.1\ch3_TextBlock.sourcelink.json

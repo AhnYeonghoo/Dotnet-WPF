@@ -1,12 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "eNfUER/glkrjyQTzkSKvpeBNOpzaSs8NAO5TWy2WIuCCQVmnt4FBwa1Ut0j6RTTERs+03z0wZeIW5DY/OKN8fA==",
+  "dgSpecHash": "SrqeNQ7BEZhhgad0UrBgJYUZvCrEYMP+aFdKFyp+a7yyM5+oO2RRNitpeibtJZh+Wrv5hhK4Udqn4ngPnQmDPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\dksdu\\Desktop\\HelloWPF\\ch3_TextBlock\\ch3_TextBlock.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []

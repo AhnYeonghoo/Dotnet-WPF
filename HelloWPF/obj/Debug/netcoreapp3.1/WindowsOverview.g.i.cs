@@ -61,7 +61,7 @@ namespace HelloWPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/HelloWPF;V1.0.0.0;component/windowsoverview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/HelloWPF;component/windowsoverview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\WindowsOverview.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

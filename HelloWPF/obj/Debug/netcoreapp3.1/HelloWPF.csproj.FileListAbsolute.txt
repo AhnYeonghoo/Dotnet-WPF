@@ -26,3 +26,4 @@ C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\obj\Debug\netcoreapp3.1\WindowsOverview
 C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\obj\Debug\netcoreapp3.1\Resource.baml
 C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\obj\Debug\netcoreapp3.1\Styles.baml
 C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\obj\Debug\netcoreapp3.1\WindowsOverview.baml
+C:\Users\dksdu\Desktop\HelloWPF\HelloWPF\obj\Debug\netcoreapp3.1\HelloWPF.sourcelink.json

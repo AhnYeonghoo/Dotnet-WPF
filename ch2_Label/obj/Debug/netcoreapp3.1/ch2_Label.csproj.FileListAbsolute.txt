@@ -18,3 +18,4 @@ C:\Users\dksdu\Desktop\HelloWPF\ch2_Label\obj\Debug\netcoreapp3.1\ch2_Label.cspr
 C:\Users\dksdu\Desktop\HelloWPF\ch2_Label\obj\Debug\netcoreapp3.1\ch2_Label.dll
 C:\Users\dksdu\Desktop\HelloWPF\ch2_Label\obj\Debug\netcoreapp3.1\ch2_Label.pdb
 C:\Users\dksdu\Desktop\HelloWPF\ch2_Label\obj\Debug\netcoreapp3.1\ch2_Label.genruntimeconfig.cache
+C:\Users\dksdu\Desktop\HelloWPF\ch2_Label\obj\Debug\netcoreapp3.1\ch2_Label.sourcelink.json

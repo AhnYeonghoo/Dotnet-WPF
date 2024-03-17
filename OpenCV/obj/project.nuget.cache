@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lGCTNp4x1Iy398LFK1QrDOz94wmQinWx83Q/JjjRPbNKZkMR0Bh2S5We9XGTY6u0z3oKQiOpAryd6s+nQpN3VQ==",
+  "dgSpecHash": "c6puBGKzJumyiDVJXPWg91HmDUfXiA7+x6QK6X4hKHvAMSL6FSz6OnnyAEwbXAYh0RfjyBJuqSZIzNJ3YhzUdw==",
   "success": true,
   "projectFilePath": "C:\\Users\\dksdu\\Desktop\\HelloWPF\\OpenCV\\OpenCV.csproj",
   "expectedPackageFiles": [
@@ -9,9 +9,6 @@
     "C:\\Users\\dksdu\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
     "C:\\Users\\dksdu\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\dksdu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": [
