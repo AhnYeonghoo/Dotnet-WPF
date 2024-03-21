@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ch3_TextBlock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb737afd3d3220422bf8a93765668c4257da09be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2685ba831d793ae43bb5918f83edd02db6b6c3af")]
 [assembly: System.Reflection.AssemblyProductAttribute("ch3_TextBlock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ch3_TextBlock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
